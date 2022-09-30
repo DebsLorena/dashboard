@@ -11,6 +11,7 @@
 <div align="center">
     <img src="./print-1.PNG" alt="daily.dev" width="550">
     <img src="./print-2.PNG" alt="daily.dev" width="550">
+    <img src="./print-3.PNG" alt="daily.dev" width="550">
 </div>
 
 
